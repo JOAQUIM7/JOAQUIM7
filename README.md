@@ -16,6 +16,7 @@ I'm a Web Developer. And, I'm studying web Developer at [Rocketseat](https://www
 
 ## 🔗 Links
 [![](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquim-mendes-069771224/)
+\n
 Email: joaquimmesdesjr@gmail.com
 
 ## 
